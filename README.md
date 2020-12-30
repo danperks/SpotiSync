@@ -1,1 +1,1 @@
-"# SpotiSync" 
+# SpotiSync
